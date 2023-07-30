@@ -7,3 +7,28 @@ Hello Everyhis is the homepage of this project. Details in coming soon!
 # Enroll
 ![Enroll](https://github.com/Habib16051/ABCademy/assets/39822204/c59db4e8-c313-47fe-bea3-6811110311eb)
 
+# Login
+![Login](https://github.com/Habib16051/ABCademy/assets/39822204/0af76a0d-d0b0-46f5-a25b-dae6a43501e8)
+
+# Logged Out
+![logged out](https://github.com/Habib16051/ABCademy/assets/39822204/e31e54b1-82c5-4a18-a05e-3db513ccdde7)
+
+# Message Systme
+![message system](https://github.com/Habib16051/ABCademy/assets/39822204/d92166ec-d700-464e-87bd-8704e530126f)
+
+# Content with Video
+![COurse with video content](https://github.com/Habib16051/ABCademy/assets/39822204/2c52eb84-ca61-4d3a-9589-1b57df6668e9)
+
+# Create New Course
+![create new courses](https://github.com/Habib16051/ABCademy/assets/39822204/4b94304a-8d33-4fd2-836a-9e36ed3fe12b)
+
+# Delete the existing course
+![create new courses](https://github.com/Habib16051/ABCademy/assets/39822204/3f7abfdc-ed74-4196-929b-288f4ee9a1ec)
+
+
+
+
+
+
+
+
