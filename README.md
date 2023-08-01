@@ -1,5 +1,5 @@
 # ABCademy
-This project is bascally built  on the idea of  E-learning platform. Here I tried to demonstrate the functionalities and features of many courses, subjects and resources related to online study. 
+This project is basically built  on the idea of  E-learning platform. Here I tried to demonstrate the functionalities and features of many courses, subjects and resources related to online study. 
 
 
 ![Screenshot from 2023-07-27 12-53-19](https://github.com/Habib16051/ABCademy/assets/39822204/c8482d0f-a843-40db-a1e2-34190bdd6dab)
